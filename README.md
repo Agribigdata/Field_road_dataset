@@ -9,3 +9,5 @@ wheat1_0~4 is the wheat1 dataset
 wheat2_0~4 is the wheat2 dataset
 
 paddy is the paddy dataset
+
+data_spilt is used to divide the dataset
