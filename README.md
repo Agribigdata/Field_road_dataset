@@ -12,7 +12,11 @@ paddy is the paddy dataset
 
 data_spilt is used to divide the dataset
 
-#Code usage instructions
+
+
+
+Code usage instructions
+
 First, the split_read.py is used to divide the data (where. pkl is the pre-division model corresponding to each data set)
 
 Second, modify the code file under the code folder.
