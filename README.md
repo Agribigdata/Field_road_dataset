@@ -1,24 +1,21 @@
 # dataset_code
 
-corn0~5 is the corn dataset
+1. Dataset description
+	corn0~5 is the corn dataset
 
-tractor0~2 is the tractor dataset
+	tractor0~2 is the tractor dataset
 
-wheat1_0~4 is the wheat1 dataset
+	wheat1_0~4 is the wheat1 dataset
 
-wheat2_0~4 is the wheat2 dataset
+	wheat2_0~4 is the wheat2 dataset
 
-paddy is the paddy dataset
+	paddy is the paddy dataset
 
-data_spilt is used to divide the dataset
+	data_spilt is used to divide the dataset
 
+2. Code usage
+	Ⅰ. The split_read.py is used to divide the data (where. pkl is the pre-division model corresponding to each data set)
 
-
-
-First, the split_read.py is used to divide the data (where. pkl is the pre-division model corresponding to each data set)
-
-Second, modify the code file under the code folder.
-
-Where the cal_25_feature.py used to extract features to 25 dimensions (modify the file path).
-
-The remaining files are the corresponding models (modify the file path)
+	Ⅱ. The cal_25_feature.py used to extract features to 25 dimensions (modify the file path).
+	
+	Ⅲ. The remaining files are the corresponding models (modify the file path)
