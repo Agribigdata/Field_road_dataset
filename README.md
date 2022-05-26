@@ -15,10 +15,10 @@ data_spilt is used to divide the dataset
 
 
 
-Code usage instructions
-
 First, the split_read.py is used to divide the data (where. pkl is the pre-division model corresponding to each data set)
 
 Second, modify the code file under the code folder.
+
 Where the cal_25_feature.py used to extract features to 25 dimensions (modify the file path).
+
 The remaining files are the corresponding models (modify the file path)
